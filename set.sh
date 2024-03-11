@@ -13,7 +13,7 @@ fi
 echo "==============================="
 echo " Welcome to EstSensi Installation "
 echo " Creator: @EstProject01 "
-echo " Version: 2.0 "
+echo " Version: 3.0 "
 echo " Credit: EstProject "
 echo "==============================="
 
