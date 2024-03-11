@@ -18,7 +18,7 @@ if [ "$current_date" \< "$expiration_date" ]; then
 
   # Running commands and capturing output
   sleep 1
-  echo " Installation successful "
+  echo " Installation successfully "
   echo ""
   sleep 1
   echo " Launching EstSensi..."
