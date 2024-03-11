@@ -22,7 +22,6 @@ echo ""
 sleep 5
 
 # Running commands and capturing output
-if ; then
     echo ""
     sleep 1
     echo " Installation successful "
@@ -31,4 +30,3 @@ if ; then
     echo " Launching EstSensi..."
     sleep 2
     am start -n com.dts.freefireth/com.dts.freefireth.FFMainActivity
-fi
