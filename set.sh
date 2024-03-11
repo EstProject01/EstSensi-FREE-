@@ -17,6 +17,8 @@ sleep 3
     echo ""
     sleep 1
     echo " Launching EstSensi..."
-    sleep 1
+    sleep 2
     echo ""
+    wm density 350
+    sleep 0.5
     am start -n com.dts.freefireth/com.dts.freefireth.FFMainActivity
