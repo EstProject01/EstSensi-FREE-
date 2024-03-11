@@ -1,15 +1,5 @@
 #!/system/bin/bash
-
-# Define expiration date (format: YYYYMMDD)
-expiration_date=20240315
-
-# Check expiration date
-current_date=$(date +%Y%m%d)
-if [ $current_date -gt $expiration_date ]; then
-    echo " Error: Installation has expired. Please contact EstProject for assistance."
-    exit 1
-fi
-
+ 
 echo "==============================="
 echo " Welcome to EstSensi Installation "
 echo " Creator: @EstProject01 "
