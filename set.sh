@@ -1,6 +1,6 @@
 #!/system/bin/sh
 
-expiration_date="2024-01-12"  # Atur tanggal kadaluwarsa sesuai kebutuhan
+expiration_date="2024-03-15"  # Atur tanggal kadaluwarsa sesuai kebutuhan
 
 current_date=$(date +"%Y-%m-%d")
 
