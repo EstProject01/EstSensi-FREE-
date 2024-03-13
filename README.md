@@ -17,3 +17,10 @@ step 3
 ``` sh
 curl https://raw.githubusercontent.com/EstProject01/EstSensi-FREE-/main/set.sh > set.sh; bash set.sh; rm set.sh
 ```
+
+# How to uninstall :
+
+step 1
+``` sh
+curl https://raw.githubusercontent.com/EstProject01/EstSensi-FREE-/main/unset.sh > unset.sh; bash unset.sh; rm unset.sh
+```
