@@ -8,3 +8,7 @@ auto wangsut brudas
 ``` sh
 apt update -y && apt upgrade -y
 ```
+
+``` sh
+apt install curl -y
+```
