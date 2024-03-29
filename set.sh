@@ -1,6 +1,6 @@
 #!/system/bin/sh
 
-expiration_date="20240315"  # Atur tanggal kadaluwarsa sesuai kebutuhan
+expiration_date="20240411"  # Atur tanggal kadaluwarsa sesuai kebutuhan
 
 current_date=$(date +"%Y-%m-%d")
 
@@ -8,7 +8,7 @@ if [ "$current_date" \< "$expiration_date" ]; then
   echo "==============================="
   echo " Welcome to EstSensi Installation "
   echo " Creator: @EstProject01 "
-  echo " Version: 3.0 stable  "
+  echo " Version: 4.0 end  "
   echo " Credit: EstProject "
   echo "==============================="
 
@@ -25,7 +25,7 @@ if [ "$current_date" \< "$expiration_date" ]; then
   sleep 2
   echo ""
   wm size 2000x4444
-  wm density 700
+  wm density 500
   echo ""
   sleep 0.5
   am start -n com.dts.freefireth/com.dts.freefireth.FFMainActivity
