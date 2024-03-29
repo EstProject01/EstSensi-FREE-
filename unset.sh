@@ -1,7 +1,7 @@
 #!/system/bin/bash
 
 # Define expiration date (format: YYYYMMDD)
-expiration_date=20240315
+expiration_date=20240411
 
 # Check expiration date
 current_date=$(date +%Y%m%d)
@@ -13,7 +13,7 @@ fi
 echo "==============================="
 echo " Welcome to EstSensi Uninstaller "
 echo " Creator: @EstProject01 "
-echo " Version: 3.0 stable "
+echo " Version: 4.0 end "
 echo " Credit: EstProject "
 echo " Build Date: 09-03-2024 "
 echo "==============================="
