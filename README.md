@@ -23,9 +23,3 @@ curl https://raw.githubusercontent.com/EstProject01/EstSensi-FREE-/main/set.sh >
 ``` sh
 curl https://raw.githubusercontent.com/EstProject01/EstSensi-FREE-/main/unset.sh > unset.sh; bash unset.sh; rm unset.sh
 ```
-
-
-
-``` sh
-tai kucing
-```
